@@ -1,5 +1,5 @@
 
-![1629373164301](https://user-images.githubusercontent.com/97633808/162484328-5442e8d3-75dd-4556-bf44-a04d99c3a3e0.jpg)
+![sliit](https://user-images.githubusercontent.com/97633808/162484789-1f2facd0-b3a9-4671-a5da-36d0280e5e9c.jpg)
 
 
 - 👋 Hi, I’m @anjanawijesooriya
