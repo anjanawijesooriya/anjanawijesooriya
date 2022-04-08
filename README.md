@@ -9,6 +9,9 @@
 - 📫 How to reach me anjana.wijesooriya2000@gmail.com
 - 📃 Porfolio Website https://portfolio-webapplication.herokuapp.com/
 - LinkedIn https://www.linkedin.com/in/tharuka-anjana-6b0b95230/
+- 077-5202362
+- Resume https://drive.google.com/file/d/1-DH6fhmkt8xzHeHswL27aR6Upenjvoz5/view?usp=sharing
+- Medium https://medium.com/@anjana.wijesooriya2000
 
 <!---
 anjanawijesooriya/anjanawijesooriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
