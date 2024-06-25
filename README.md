@@ -7,7 +7,7 @@
 - 🌱 I’m an undergraduate student in SLIIT
 - 💞️ I’m looking to collaborate on web-application development
 - 📫 How to reach me anjana.wijesooriya2000@gmail.com
-- 📃 Porfolio Website https://portfolio-webapplication.herokuapp.com/
+- 📃 Porfolio Website https://personal-portfolio-tharuka-anjana-app.netlify.app/
 - LinkedIn https://www.linkedin.com/in/tharuka-anjana-6b0b95230/
 - 077-5202362
 - Resume https://drive.google.com/file/d/1-DH6fhmkt8xzHeHswL27aR6Upenjvoz5/view?usp=sharing
